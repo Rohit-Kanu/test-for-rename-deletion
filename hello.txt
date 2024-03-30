@@ -1,6 +1,6 @@
 # test-for-rename-deletion
 
-Hello workld => This change looks good pls include this
+Hello worldy(master) => This change looks good pls include this
 
 
 hello hi

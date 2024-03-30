@@ -11,3 +11,4 @@ guten
 
 rebase add1
 rebase add2
+post rebase
